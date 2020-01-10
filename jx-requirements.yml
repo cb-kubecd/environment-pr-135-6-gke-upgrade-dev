@@ -82,6 +82,6 @@ vault:
   disableURLDiscovery: true
 velero: {}
 versionStream:
-  ref: 2.0.1113+cjxd.6
+  ref: 433c985f03a9a437489e8c5eabac679d2ad9d3f9
   url: https://github.com/cloudbees/cloudbees-jenkins-x-versions.git
 webhook: prow
